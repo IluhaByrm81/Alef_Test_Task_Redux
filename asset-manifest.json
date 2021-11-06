@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Alef_Test_Task_Redux/alef-test-task/static/css/main.d0bb9cb0.chunk.css",
+    "main.js": "/Alef_Test_Task_Redux/alef-test-task/static/js/main.81beeb51.chunk.js",
+    "main.js.map": "/Alef_Test_Task_Redux/alef-test-task/static/js/main.81beeb51.chunk.js.map",
+    "runtime-main.js": "/Alef_Test_Task_Redux/alef-test-task/static/js/runtime-main.5b1012e1.js",
+    "runtime-main.js.map": "/Alef_Test_Task_Redux/alef-test-task/static/js/runtime-main.5b1012e1.js.map",
+    "static/js/2.61b4b013.chunk.js": "/Alef_Test_Task_Redux/alef-test-task/static/js/2.61b4b013.chunk.js",
+    "static/js/2.61b4b013.chunk.js.map": "/Alef_Test_Task_Redux/alef-test-task/static/js/2.61b4b013.chunk.js.map",
+    "static/js/3.adedb1cd.chunk.js": "/Alef_Test_Task_Redux/alef-test-task/static/js/3.adedb1cd.chunk.js",
+    "static/js/3.adedb1cd.chunk.js.map": "/Alef_Test_Task_Redux/alef-test-task/static/js/3.adedb1cd.chunk.js.map",
+    "index.html": "/Alef_Test_Task_Redux/alef-test-task/index.html",
+    "static/css/main.d0bb9cb0.chunk.css.map": "/Alef_Test_Task_Redux/alef-test-task/static/css/main.d0bb9cb0.chunk.css.map",
+    "static/js/2.61b4b013.chunk.js.LICENSE.txt": "/Alef_Test_Task_Redux/alef-test-task/static/js/2.61b4b013.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b1012e1.js",
+    "static/js/2.61b4b013.chunk.js",
+    "static/css/main.d0bb9cb0.chunk.css",
+    "static/js/main.81beeb51.chunk.js"
+  ]
+}
