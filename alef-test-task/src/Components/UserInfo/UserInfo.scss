@@ -1,0 +1,55 @@
+.form_out {
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+   padding: 0px;
+   
+   position: absolute;
+   width: 197px;
+   height: 280px;
+   left: 375px;
+   top: 94px;
+}
+ h3 {
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 24px;
+
+ }
+
+ .form_out_1 {
+   margin-bottom: 30px;
+ }
+ .info_out_1 {
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 24px;
+   display: flex;
+   align-items: center;
+   color: #111111;
+ }
+
+ .out_2 {
+   width: auto;
+   height: 44px;
+   background: #F1F1F1;
+   border-radius: 5px; 
+   display: flex;
+   align-items: center;
+   justify-content: flex-start;
+   margin-bottom: 20px;
+}
+
+ .info_out_2 {
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 24px;   
+   color: #000000;
+   padding: 20px;
+ }

@@ -1,0 +1,21 @@
+.footer {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 1366px;
+   height: 76px;
+   background: #FAFAFA;
+   box-shadow: 0px 1px 0px rgba(17, 17, 17, 0.1);
+   margin-top: 130px;
+   position: fixed;
+   top: 690px;
+   div {
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 13px;
+      line-height: 16px;
+      color: #000000;
+   
+   }
+}

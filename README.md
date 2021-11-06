@@ -1,1 +1,0 @@
-# Alef_Test_Task
